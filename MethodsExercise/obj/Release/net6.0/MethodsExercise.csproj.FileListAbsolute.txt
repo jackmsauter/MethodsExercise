@@ -1,0 +1,5 @@
+C:\Users\jackm\repos\MethodsExercise\MethodsExercise\obj\Release\net6.0\MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackm\repos\MethodsExercise\MethodsExercise\obj\Release\net6.0\MethodsExercise.AssemblyInfoInputs.cache
+C:\Users\jackm\repos\MethodsExercise\MethodsExercise\obj\Release\net6.0\MethodsExercise.AssemblyInfo.cs
+C:\Users\jackm\repos\MethodsExercise\MethodsExercise\obj\Release\net6.0\MethodsExercise.csproj.CoreCompileInputs.cache
+C:\Users\jackm\repos\MethodsExercise\MethodsExercise\obj\Release\net6.0\MethodsExercise.sourcelink.json
